@@ -1,12 +1,6 @@
-**Live dashboard: <https://benabolaji.github.io/stg17-dashboard/>**
-
-Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-29.
-
----
-
 # Statistics dashboard
 
-Bilingual (EN/FR) dashboard built from **STATISTICS OF RWANDA**, pages 10, 11, 12.
+Bilingual (EN/FR) dashboard built from **Bulletin statistique trimestriel**, pages 1, 2.
 
 Built during the STG17 technical workshop *Emerging Issues, Emerging Practice*
 (African Development Bank / AU STATAFRIC), lab 02 — from a statistical document
@@ -39,8 +33,8 @@ Results of the run that produced this page:
 
 | Outcome | Cells |
 |---|---|
-| verified | 275 |
-| published but flagged | 133 |
+| verified | 76 |
+| published but flagged | 0 |
 | discarded | 0 |
 
 ## Reproducing this
