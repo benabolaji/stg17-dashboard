@@ -1,409 +1,77 @@
 indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
-code_categories_weights_aug_,GENERAL INDEX,col1,100.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,GENERAL INDEX,col2,188.3,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,GENERAL INDEX,col3,214.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,GENERAL INDEX,col4,217.8,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,GENERAL INDEX,col5,1.8,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,GENERAL INDEX,col6,15.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,GENERAL INDEX,col7,1.8,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,GENERAL INDEX,col8,15.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col1,27.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,Food and non-alcoholic beverages,col2,241.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col3,270.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col4,280.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col5,3.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col6,16.3,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col7,1.3,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Food and non-alcoholic beverages,col8,5.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col1,5.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,Bread and cereals,col2,197.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col3,210.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col4,211.3,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col5,0.6,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col6,7.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col7,0.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Bread and cereals,col8,0.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col1,2.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0 | re-read this cell: 26.0 is printed on page 10 and would close the gap
-code_categories_weights_aug_,Meat,col2,297.5,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col3,398.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col4,406.6,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col5,2.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col6,36.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col7,0.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Meat,col8,1.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col1,1.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0 | re-read this cell: 25.0 is printed on page 10 and would close the gap
-code_categories_weights_aug_,Milk cheese and eggs,col2,216.8,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col3,227.9,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col4,228.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col5,0.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col6,5.3,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col7,0.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Milk cheese and eggs,col8,0.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col1,9.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,Vegetables,col2,269.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col3,313.6,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col4,336.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col5,7.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col6,24.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col7,0.9,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Vegetables,col8,3.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col1,1.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0 | re-read this cell: 25.0 is printed on page 10 and would close the gap
-code_categories_weights_aug_,Non-alcoholic beverages,col2,208.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col3,223.9,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col4,225.6,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col5,0.8,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col6,8.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col7,0.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Non-alcoholic beverages,col8,0.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col1,5.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col2,261.6,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col3,283.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col4,286.9,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col5,1.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col6,9.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col7,0.1,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Alcoholic beverages tobacco and narcotics,col8,0.7,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col1,5.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,Clothing and footwear,col2,168.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col3,176.9,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col4,177.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col5,0.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col6,5.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col7,0.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,Clothing and footwear,col8,0.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col1,21.0,,10,rules-only,True,True,True,False,match,review,parts sum to 76.0 but the document publishes 100.0
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col2,144.3,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col3,173.5,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col4,173.8,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col5,0.2,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col6,20.4,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col7,0.0,,10,rules-only,True,True,True,True,match,verified,
-code_categories_weights_aug_,"Housing water, electricity, gas and other fuels",col8,3.3,,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Health,col1,1.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Health,col2,193.4,%,10,rules-only,True,True,False,True,match,review,193.4 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Health,col3,195.5,%,10,rules-only,True,True,False,True,match,review,195.5 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Health,col4,195.6,%,10,rules-only,True,True,False,True,match,review,195.6 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Health,col5,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Health,col6,1.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Health,col7,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Health,col8,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Transport,col1,12.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Transport,col2,201.0,%,10,rules-only,True,True,False,True,match,review,201.0 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Transport,col3,249.2,%,10,rules-only,True,True,False,True,match,review,249.2 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Transport,col4,249.6,%,10,rules-only,True,True,False,True,match,review,249.6 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Transport,col5,0.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Transport,col6,24.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Transport,col7,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Transport,col8,3.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Communication,col1,3.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Communication,col2,114.3,%,10,rules-only,True,True,False,True,match,review,114.3 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Communication,col3,118.2,%,10,rules-only,True,True,False,True,match,review,118.2 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Communication,col4,117.9,%,10,rules-only,True,True,False,True,match,review,117.9 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Communication,col5,-0.3,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Communication,col6,3.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Communication,col7,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Communication,col8,0.1,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Recreation and culture,col1,3.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Recreation and culture,col2,154.0,%,10,rules-only,True,True,False,True,match,review,154.0 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Recreation and culture,col3,162.2,%,10,rules-only,True,True,False,True,match,review,162.2 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Recreation and culture,col4,162.6,%,10,rules-only,True,True,False,True,match,review,162.6 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,Recreation and culture,col5,0.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Recreation and culture,col6,5.6,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Recreation and culture,col7,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,Recreation and culture,col8,0.1,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,10 Education,col1,3.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,10 Education,col2,155.5,%,10,rules-only,True,True,False,True,match,review,155.5 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,10 Education,col3,176.2,%,10,rules-only,True,True,False,True,match,review,176.2 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,10 Education,col4,176.2,%,10,rules-only,True,True,False,True,match,review,176.2 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,10 Education,col5,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,10 Education,col6,13.3,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,10 Education,col7,0.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,10 Education,col8,0.3,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,11 Restaurants and hotels,col1,9.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,11 Restaurants and hotels,col2,172.1,%,10,rules-only,True,True,False,True,match,review,172.1 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,11 Restaurants and hotels,col3,195.0,%,10,rules-only,True,True,False,True,match,review,195.0 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,11 Restaurants and hotels,col4,199.0,%,10,rules-only,True,True,False,True,match,review,199.0 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,11 Restaurants and hotels,col5,2.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,11 Restaurants and hotels,col6,15.6,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,11 Restaurants and hotels,col7,0.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,11 Restaurants and hotels,col8,1.3,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,12 Miscellaneous goods and services,col1,6.0,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,12 Miscellaneous goods and services,col2,147.1,%,10,rules-only,True,True,False,True,match,review,147.1 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,12 Miscellaneous goods and services,col3,160.5,%,10,rules-only,True,True,False,True,match,review,160.5 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,12 Miscellaneous goods and services,col4,166.7,%,10,rules-only,True,True,False,True,match,review,166.7 is outside the plausible range for 05_furnishings_household_equ
-05_furnishings_household_equ,12 Miscellaneous goods and services,col5,3.9,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,12 Miscellaneous goods and services,col6,13.3,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,12 Miscellaneous goods and services,col7,0.2,%,10,rules-only,True,True,True,True,match,verified,
-05_furnishings_household_equ,12 Miscellaneous goods and services,col8,0.7,%,10,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,GENERAL INDEX,col1,100.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,GENERAL INDEX,col2,221.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,GENERAL INDEX,col3,248.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,GENERAL INDEX,col4,256.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,GENERAL INDEX,col5,3.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,GENERAL INDEX,col6,16.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,GENERAL INDEX,col7,3.1,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,GENERAL INDEX,col8,16.0,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Food and non-alcoholic beverages,col1,48.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Food and non-alcoholic beverages,col2,257.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Food and non-alcoholic beverages,col3,286.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Food and non-alcoholic beverages,col4,300.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Food and non-alcoholic beverages,col5,5.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Food and non-alcoholic beverages,col6,16.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Food and non-alcoholic beverages,col7,2.8,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1 | re-read this cell: 0.7 is printed on page 11 and would close the gap
-consumer_price_index_rural,Food and non-alcoholic beverages,col8,9.4,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Bread and cereals,col1,8.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0 | re-read this cell: -25.0 is printed on page 11 and would close the gap
-consumer_price_index_rural,Bread and cereals,col2,231.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Bread and cereals,col3,235.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Bread and cereals,col4,238.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Bread and cereals,col5,1.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Bread and cereals,col6,2.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Bread and cereals,col7,0.1,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1 | re-read this cell: -2.0 is printed on page 11 and would close the gap
-consumer_price_index_rural,Bread and cereals,col8,0.2,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Meat,col1,2.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Meat,col2,333.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Meat,col3,417.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Meat,col4,430.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Meat,col5,3.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Meat,col6,28.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Meat,col7,0.1,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1 | re-read this cell: -2.0 is printed on page 11 and would close the gap
-consumer_price_index_rural,Meat,col8,0.7,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Milk cheese and eggs,col1,1.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Milk cheese and eggs,col2,226.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Milk cheese and eggs,col3,233.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Milk cheese and eggs,col4,237.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Milk cheese and eggs,col5,1.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Milk cheese and eggs,col6,4.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Milk cheese and eggs,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Milk cheese and eggs,col8,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Vegetables,col1,26.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Vegetables,col2,267.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Vegetables,col3,306.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Vegetables,col4,326.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Vegetables,col5,6.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Vegetables,col6,22.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Vegetables,col7,2.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Vegetables,col8,6.9,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0 | re-read this cell: -0.4 is printed on page 11 and would close the gap
-consumer_price_index_rural,Non-alcoholic beverages,col1,1.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Non-alcoholic beverages,col2,204.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Non-alcoholic beverages,col3,221.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Non-alcoholic beverages,col4,223.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Non-alcoholic beverages,col5,0.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Non-alcoholic beverages,col6,9.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Non-alcoholic beverages,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Non-alcoholic beverages,col8,0.1,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col1,8.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0 | re-read this cell: -25.0 is printed on page 11 and would close the gap
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col2,243.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col3,268.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col4,261.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col5,-2.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col6,7.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col7,-0.2,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Alcoholic beverages tobacco and narcotics,col8,0.7,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Clothing and footwear,col1,5.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Clothing and footwear,col2,176.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Clothing and footwear,col3,184.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Clothing and footwear,col4,185.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Clothing and footwear,col5,0.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Clothing and footwear,col6,4.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Clothing and footwear,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Clothing and footwear,col8,0.2,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col1,16.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col2,168.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col3,202.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col4,200.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col5,-0.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col6,19.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col7,-0.1,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,"Housing water, electricity, gas and other fuels",col8,2.4,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0 | re-read this cell: -4.9 is printed on page 11 and would close the gap
-consumer_price_index_rural,Health,col1,1.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Health,col2,180.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Health,col3,187.6,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Health,col4,187.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Health,col5,0.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Health,col6,4.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Health,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Health,col8,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Transport,col1,4.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Transport,col2,136.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Transport,col3,189.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Transport,col4,189.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Transport,col5,0.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Transport,col6,38.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Transport,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Transport,col8,1.0,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Communication,col1,2.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Communication,col2,137.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Communication,col3,137.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Communication,col4,213.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Communication,col5,54.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Communication,col6,54.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Communication,col7,0.5,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Communication,col8,0.6,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Recreation and culture,col1,1.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Recreation and culture,col2,174.3,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Recreation and culture,col3,207.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Recreation and culture,col4,208.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Recreation and culture,col5,0.5,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Recreation and culture,col6,19.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Recreation and culture,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Recreation and culture,col8,0.2,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Education,col1,1.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Education,col2,238.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Education,col3,263.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Education,col4,263.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Education,col5,0.0,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Education,col6,10.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Education,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Education,col8,0.2,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Restaurants and hotels,col1,5.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Restaurants and hotels,col2,209.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Restaurants and hotels,col3,231.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Restaurants and hotels,col4,233.7,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Restaurants and hotels,col5,1.1,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Restaurants and hotels,col6,11.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Restaurants and hotels,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Restaurants and hotels,col8,0.5,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_rural,Miscellaneous goods and services,col1,4.0,,11,rules-only,True,True,True,False,match,review,parts sum to 133.0 but the document publishes 100.0
-consumer_price_index_rural,Miscellaneous goods and services,col2,153.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Miscellaneous goods and services,col3,165.2,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Miscellaneous goods and services,col4,165.9,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Miscellaneous goods and services,col5,0.4,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Miscellaneous goods and services,col6,7.8,,11,rules-only,True,True,True,True,match,verified,
-consumer_price_index_rural,Miscellaneous goods and services,col7,0.0,,11,rules-only,True,True,True,False,match,review,parts sum to 5.2 but the document publishes 3.1
-consumer_price_index_rural,Miscellaneous goods and services,col8,0.2,,11,rules-only,True,True,True,False,match,review,parts sum to 23.3 but the document publishes 16.0
-consumer_price_index_all_rwa,GENERAL INDEX,col1,100.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,GENERAL INDEX,col2,208.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,GENERAL INDEX,col3,235.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,GENERAL INDEX,col4,241.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,GENERAL INDEX,col5,2.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,GENERAL INDEX,col6,15.9,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,GENERAL INDEX,col7,2.6,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,GENERAL INDEX,col8,15.9,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col1,39.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col2,254.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col3,283.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col4,296.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col5,4.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col6,16.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col7,2.2,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Food and non-alcoholic beverages,col8,7.9,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Bread and cereals,col1,7.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Bread and cereals,col2,221.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Bread and cereals,col3,228.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Bread and cereals,col4,231.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Bread and cereals,col5,1.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Bread and cereals,col6,4.2,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Bread and cereals,col7,0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6 | re-read this cell: -1.6 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Bread and cereals,col8,0.3,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Meat,col1,2.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Meat,col2,316.9,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Meat,col3,409.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Meat,col4,420.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Meat,col5,2.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Meat,col6,32.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Meat,col7,0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6 | re-read this cell: -1.6 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Meat,col8,0.9,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Milk cheese and eggs,col1,1.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Milk cheese and eggs,col2,220.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Milk cheese and eggs,col3,230.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Milk cheese and eggs,col4,232.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Milk cheese and eggs,col5,0.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Milk cheese and eggs,col6,5.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Milk cheese and eggs,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Milk cheese and eggs,col8,0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Vegetables,col1,18.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0 | re-read this cell: -6.0 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Vegetables,col2,268.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Vegetables,col3,308.9,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Vegetables,col4,329.2,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Vegetables,col5,6.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Vegetables,col6,22.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Vegetables,col7,1.6,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6 | re-read this cell: -0.1 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Vegetables,col8,5.4,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9 | re-read this cell: -0.8 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Non-alcoholic beverages,col1,1.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Non-alcoholic beverages,col2,205.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Non-alcoholic beverages,col3,222.2,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Non-alcoholic beverages,col4,223.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Non-alcoholic beverages,col5,0.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Non-alcoholic beverages,col6,8.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Non-alcoholic beverages,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Non-alcoholic beverages,col8,0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col1,7.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col2,248.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col3,272.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col4,269.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col5,-1.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col6,8.2,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col7,-0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Alcoholic beverages tobacco and narcotics,col8,0.7,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Clothing and footwear,col1,5.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Clothing and footwear,col2,173.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Clothing and footwear,col3,181.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Clothing and footwear,col4,181.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Clothing and footwear,col5,0.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Clothing and footwear,col6,5.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Clothing and footwear,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Clothing and footwear,col8,0.2,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9 | re-read this cell: -6.0 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col1,18.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0 | re-read this cell: -6.0 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col2,155.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col3,186.9,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col4,186.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col5,-0.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col6,19.9,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col7,-0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,"Housing water, electricity, gas and other fuels",col8,2.7,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Health,col1,1.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Health,col2,186.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Health,col3,191.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Health,col4,191.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Health,col5,0.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Health,col6,2.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Health,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Health,col8,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Transport,col1,8.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Transport,col2,180.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Transport,col3,230.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Transport,col4,230.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Transport,col5,0.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Transport,col6,27.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Transport,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Transport,col8,1.8,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Communication,col1,2.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Communication,col2,123.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Communication,col3,125.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Communication,col4,157.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Communication,col5,25.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Communication,col6,27.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Communication,col7,0.3,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Communication,col8,0.4,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Recreation and culture,col1,2.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Recreation and culture,col2,161.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Recreation and culture,col3,179.9,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Recreation and culture,col4,180.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Recreation and culture,col5,0.4,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Recreation and culture,col6,11.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Recreation and culture,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Recreation and culture,col8,0.2,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9 | re-read this cell: -6.0 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Education,col1,2.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Education,col2,193.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Education,col3,216.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Education,col4,216.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Education,col5,0.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Education,col6,11.8,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Education,col7,0.0,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Education,col8,0.2,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Restaurants and hotels,col1,6.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0 | re-read this cell: -18.0 is printed on page 12 and would close the gap
-consumer_price_index_all_rwa,Restaurants and hotels,col2,188.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Restaurants and hotels,col3,211.0,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Restaurants and hotels,col4,214.5,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Restaurants and hotels,col5,1.6,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Restaurants and hotels,col6,13.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Restaurants and hotels,col7,0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Restaurants and hotels,col8,0.8,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
-consumer_price_index_all_rwa,Miscellaneous goods and services,col1,5.0,,12,rules-only,True,True,True,False,match,review,parts sum to 124.0 but the document publishes 100.0
-consumer_price_index_all_rwa,Miscellaneous goods and services,col2,149.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Miscellaneous goods and services,col3,162.1,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Miscellaneous goods and services,col4,165.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Miscellaneous goods and services,col5,2.3,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Miscellaneous goods and services,col6,10.7,,12,rules-only,True,True,True,True,match,verified,
-consumer_price_index_all_rwa,Miscellaneous goods and services,col7,0.1,,12,rules-only,True,True,True,False,match,review,parts sum to 4.3 but the document publishes 2.6
-consumer_price_index_all_rwa,Miscellaneous goods and services,col8,0.4,,12,rules-only,True,True,True,False,match,review,parts sum to 22.1 but the document publishes 15.9
+tableau_1_taux_de_chômage_pa,Littoral Nord,2021,11.2,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Nord,2022,10.8,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Nord,2023,10.1,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Nord,2024,9.7,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Nord,2025,8.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Sud,2021,13.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Sud,2022,13.4,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Sud,2023,12.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Sud,2024,12.6,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Littoral Sud,2025,11.8,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Plateau Central,2021,23.8,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Plateau Central,2022,23.1,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Plateau Central,2023,22.4,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Plateau Central,2024,21.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Plateau Central,2025,21.3,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Vallée de l'Est,2021,15.6,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Vallée de l'Est,2022,15.2,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Vallée de l'Est,2023,14.7,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Vallée de l'Est,2024,14.1,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Vallée de l'Est,2025,13.4,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Hauts Plateaux,2021,19.4,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Hauts Plateaux,2022,19.0,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Hauts Plateaux,2023,18.2,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Hauts Plateaux,2024,17.8,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Hauts Plateaux,2025,17.0,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Extrême Ouest,2021,17.1,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Extrême Ouest,2022,16.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Extrême Ouest,2023,16.3,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Extrême Ouest,2024,15.8,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Extrême Ouest,2025,15.1,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Ensemble du pays,2021,14.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Ensemble du pays,2022,14.5,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Ensemble du pays,2023,13.9,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Ensemble du pays,2024,13.4,%,1,rules-only,True,True,True,True,match,verified,
+tableau_1_taux_de_chômage_pa,Ensemble du pays,2025,12.8,%,1,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Littoral Nord,Population,4912.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Littoral Nord,Part (%),26.2,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Littoral Nord,Densité (hab/km2),312.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Littoral Sud,Population,3704.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Littoral Sud,Part (%),19.8,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Littoral Sud,Densité (hab/km2),188.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Plateau Central,Population,2158.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Plateau Central,Part (%),11.5,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Plateau Central,Densité (hab/km2),41.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Vallée de l'Est,Population,3261.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Vallée de l'Est,Part (%),17.4,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Vallée de l'Est,Densité (hab/km2),97.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Hauts Plateaux,Population,2489.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Hauts Plateaux,Part (%),13.3,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Extrême Ouest,Population,2218.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Extrême Ouest,Part (%),11.8,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Extrême Ouest,Densité (hab/km2),23.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Total,Population,18742.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Total,Part (%),100.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_2_population_résiden,Total,Densité (hab/km2),114.0,,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Littoral Nord,2023,64.1,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Littoral Nord,2025,78.3,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Littoral Nord,Variation (points),14.2,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Littoral Sud,2023,55.7,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Littoral Sud,2025,69.4,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Littoral Sud,Variation (points),13.7,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Plateau Central,2023,33.2,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Plateau Central,2025,46.8,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Plateau Central,Variation (points),13.6,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Vallée de l'Est,2023,47.9,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Vallée de l'Est,2025,60.2,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Vallée de l'Est,Variation (points),12.3,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Hauts Plateaux,2023,38.4,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Hauts Plateaux,2025,51.1,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Hauts Plateaux,Variation (points),12.7,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Extrême Ouest,2023,35.6,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Extrême Ouest,2025,47.9,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Extrême Ouest,Variation (points),12.3,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Ensemble du pays,2023,48.2,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Ensemble du pays,2025,61.4,%,2,rules-only,True,True,True,True,match,verified,
+tableau_3_ménages_disposant_,Ensemble du pays,Variation (points),13.2,%,2,rules-only,True,True,True,True,match,verified,
